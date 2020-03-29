@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">ACTDAILY</string>
+
+    <string name="five_minute">5-Minute Shower</string>
+    <string name="bring_bag">Bring Own Bag</string>
+    <string name="drive_less">Drive Less</string>
+    <string name="lights_off">Lights Off</string>
+    <string name="local_produce">Local Produce</string>
+    <string name="meat_free">Meat Free Meals</string>
+    <string name="recycle">Recycle</string>
+    <string name="refill_reuse">Refill and Reuse</string>
+    <string name="unplug">Unplug</string>
+    <string name="zero_waste">Zero Waste</string>
+
+    <!-- activity_start.xml -->
+    <string name="current_score">Your current score is:</string>
+    <string name="register_button">Register your actions</string>
+    <string name="information_textview">Man-made climate change poses the biggest threat to our existence.
+        It is in everyone’s interest that we act now individually on a individual level to ensure a sustainable future. This application
+        includes ten daily actions that would collectively have a good impact on the climate. Press “ACT” and collect points for each action
+        that you have completed. If you have any questions,press the info button in the top right corner. </string>
+    <string name="information_title">Information</string>
+    <string name="act_climate_change">Act against climate change</string>
+
+    <!-- activity_register -->
+    <string name="register_your_actions">Register your actions</string>
+
+    <!-- Descriptions -->
+    <string name="five_minute_description">A normal shower gets rid of about 12 liters of water per minute. On average, a person
+        shower for 13 minutes. Thus, get rid of 156 liters per shower. By going down to 5 minutes of showers, the average person
+        will save 96 liters of water for each shower. In addition to the water savings, we also save energy used to pump and heat
+        the water.</string>
+
+    <string name="bring_bag_description">Plastic bags don’t biodegrade, they photodegrade. Which means that they break down into
+        smaller and smaller bits. Moreover, a plastic bag can take up to 400 to 1000 years to break down. During that time, plastic
+        particles contaminate the soil and waterways and are accidentally ingested by animals. On average, each human consumes 200
+        plastic bags each year and 90% of them are only used once. Register your ACT each day that you have brought your own bag
+        rather than buying one and using it once. </string>
+
+    <string name="drive_less_description">Transportations accounts for one third of all CO2 emissions. 72% of that third is from road
+        transport. For each time that you take an alternative means of transport rather than what you would usually do you can register
+        that ACT.</string>
+
+    <string name="lights_off_description">Production of electricity brings large environmental impacts – The combustion of fossil fuels, nuclear
+        waste and more. The consumption of electricity has more than tripled since the 1970’s and increased with 14% since the year 2000. For
+        each day that you have turned off all the lights that you are not in your current state needed for, register an ACT. </string>
+
+    <string name="buy_locally_description">A lot of products, especially food and vegetables have transported a long way to reach your nearest
+        grocery store. In addition, some may be frozen or chilled (impacting the climate even more). To not impact this chain of transportation,
+        we encourage you to buy locally produced products and goods. Each time you buy locally, you can register your ACT. </string>
+
+    <string name="meatless_meals_description">According to the World’s Wildlife Fund (WWF), beef accounts for 28 kilo CO2 equivalents per kilo food,
+        shrimps 11, pork 4,8 and chicken 2,6. To have a positive affect on climate change, you should change your diet to be meatless. For each day
+        that you do not consume meat, you can register your ACT.</string>
+
+    <string name="recycle_description">By recycling you reduce the climate impact because the recycled goods is recovered and do not cause unnecessary
+        CO2 emissions. When you recycle, you can register your ACT.</string>
+
+    <string name="refill_reuse_description">One way to reduce unnecessary waste and production is to having your own reusable and refillable water bottle
+        and coffee cup. By going a day without using a disposable bottle or cup, you can register your ACT. </string>
+
+    <string name="unplug_description">Many devices consume more or the same amount of electricity in standby than in use. To effectively decrease your
+        consumption of, you should unplug all devices that are not in use. By doing so for one day, you can register your ACT.</string>
+
+    <string name="zero_waste_description">Clothes demands large resources to produce. They go through numerous of production steps and countries before
+        being completed. It takes a lot of chemicals, water and energy to fibers. Moreover, on average, a third of all clothes bought never gets used and
+        we throw away eight kilos worth of clothes each year. For each day passed without buying any unnecessary clothing you can register your ACT. </string>
+
+
+    <!-- Notification strings -->
+
+    <string name="main_notification_channel_name">Primary</string>
+    <string name="notification_reminder_title">Don\'t Forget to Register your ACTs</string>
+    <string name="notification_reminder_body">ACTs on climate change can\'t wait! Register and collect your points.</string>
+
+
+
+
+
+
+</resources>
