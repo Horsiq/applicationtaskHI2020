@@ -4,7 +4,7 @@ An application designed to encourage and keep track of individual action on clim
 
 ## Table of Contents:
 - [The Conditions of the Application Task](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#the-conditions-of-the-application-task)
-- [1. Cirkle of Influence](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#1-circle-of-influence)
+- [1. Circle of Influence](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#1-circle-of-influence)
 - [2. Factfulness  _Ten Reasons Why We are Wrong about the World - And Why Things are Better than You Think_ by Hans Roslin](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#2-factfulness-ten-reasons-why-we-are-wrong-about-the-world---and-why-things-are-better-than-you-think-by-hans-rosling)
 - [3. Conclusions](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#3-conclusions)
 - [4. Product Presentation](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#4-product-presentation)
@@ -58,7 +58,7 @@ I have reached the conclusion that I need to change the method of my influence t
 
 The United Nations (UN) have a campaign called [ActNow](https://www.un.org/en/actnow/) that is designed to call for individual action on climate change. By commiting myself to the ActNow initiative, I am aligned with the method of my influence and also helping _us_ achieve UNSDG 13. Climate Action.
 
-To help myself and others implement ActNow into our everyday and to push ourselves to commit to this initiative, I have developed an application called ACTDAILY which encourage you to register your climate actions each day. 
+To help myself and others implement ActNow into our everyday life and to push ourselves to commit to this initiative, I have developed an application called ACTDAILY which encourage you to register your climate actions each day. 
 
 ## 4. Product Presentation
 
@@ -101,7 +101,7 @@ To encourage more engagement, encouragement and competitiveness, updates of the 
 - To share results on social media, email, SMS etc. 
 - All revenue collected from advertisement will go to the [__Sustainable Development Goals Fund__](https://www.sdgfund.org/)
 
-In other words, the app will become more inclusive, social and widespread. Below is a screenshot of a mockup with the same startactivity but with a ranking table and two more buttons; “Invite a friend” and “Share”. 
+In other words, the app will become more inclusive, social and widespread. Below is a screenshot of a mockup with the same start activity but with a ranking table and two more buttons; “Invite a friend” and “Share”. 
 
 | Mockup |
 |--------|
