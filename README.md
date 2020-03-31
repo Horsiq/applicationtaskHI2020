@@ -43,7 +43,7 @@ According to Hans Rosling, the biggest villain in terms of CO2 emissions are the
 
   > _. . . we in the West seem to shift responsibility away from ourselves and onto others. We can say that “they” cannot live like us. The right way to say is, “We cannot live like us”._
   
-I have therefore decided to choose UNSDG number 13 Climate Action. 
+I have therefore decided to choose UNSDG number [13. Climate Action](https://www.un.org/sustainabledevelopment/climate-change/). 
 
 The next step is to determine your circle of influence through the conclusions from __1. Circle of Influence__.  
 
