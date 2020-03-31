@@ -43,13 +43,13 @@ According to Hans Rosling, the biggest villain in terms of CO2 emissions are the
 
   > _. . . we in the West seem to shift responsibility away from ourselves and onto others. We can say that “they” cannot live like us. The right way to say is, “We cannot live like us”._
   
-I have therefore decided to choose UNSDG number [13. Climate Action](https://www.un.org/sustainabledevelopment/climate-change/). 
+I have therefore decided to choose UNSDG number 13. [Climate Action](https://www.un.org/sustainabledevelopment/climate-change/). 
 
 The next step is to determine your circle of influence through the conclusions from __1. Circle of Influence__.  
 
 What are your “be’s”? How do you tackle Climate Action “inside-out”? What kind of “control” do you have? And what commitments you make to yourself?
 
-I have reached the conclusion that I need to change the method of my influence to tackle the problem "inside-out" by the following “be’s”:
+I have reached the conclusion that I need to change the method of my influence to be able to tackle the problem "inside-out" by the following “be’s”:
 * I can be more resourceful 
 * I can be more climatically aware
 * I can be more helpful
